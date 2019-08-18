@@ -1,0 +1,378 @@
+[2019-08-18 14:29:53]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:29:57]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:29:59]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:30:09]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:30:19]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:30:22]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:30:31]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:32:10]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:32:12]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:32:23]  текст ошибки action in controller post not found | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 84 
+============================================================
+[2019-08-18 14:32:38]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:32:40]  текст ошибки Undefined variable: postModel | файл : C:\OpenServer\domains\framework.loc\app\controllers\admin\PostController.php,
+		 строка : 38 
+============================================================
+[2019-08-18 14:32:40]  текст ошибки Call to a member function getArticlesOne() on null | файл : C:\OpenServer\domains\framework.loc\app\controllers\admin\PostController.php,
+		 строка : 38 
+============================================================
+[2019-08-18 14:32:52]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:33:06]  текст ошибки Undefined variable: postModel | файл : C:\OpenServer\domains\framework.loc\app\controllers\admin\PostController.php,
+		 строка : 38 
+============================================================
+[2019-08-18 14:33:06]  текст ошибки Call to a member function getArticlesOne() on null | файл : C:\OpenServer\domains\framework.loc\app\controllers\admin\PostController.php,
+		 строка : 38 
+============================================================
+[2019-08-18 14:33:07]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:33:49]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:34:58]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:36:17]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:37:09]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:37:12]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:37:22]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:37:25]  текст ошибки Undefined variable: postModel | файл : C:\OpenServer\domains\framework.loc\app\controllers\admin\PostController.php,
+		 строка : 38 
+============================================================
+[2019-08-18 14:37:25]  текст ошибки Call to a member function getArticlesOne() on null | файл : C:\OpenServer\domains\framework.loc\app\controllers\admin\PostController.php,
+		 строка : 38 
+============================================================
+[2019-08-18 14:37:53]  текст ошибки Undefined variable: postModel | файл : C:\OpenServer\domains\framework.loc\app\controllers\admin\PostController.php,
+		 строка : 38 
+============================================================
+[2019-08-18 14:37:53]  текст ошибки Call to a member function getArticlesOne() on null | файл : C:\OpenServer\domains\framework.loc\app\controllers\admin\PostController.php,
+		 строка : 38 
+============================================================
+[2019-08-18 14:37:57]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:37:58]  текст ошибки Undefined variable: postModel | файл : C:\OpenServer\domains\framework.loc\app\controllers\admin\PostController.php,
+		 строка : 38 
+============================================================
+[2019-08-18 14:37:58]  текст ошибки Call to a member function getArticlesOne() on null | файл : C:\OpenServer\domains\framework.loc\app\controllers\admin\PostController.php,
+		 строка : 38 
+============================================================
+[2019-08-18 14:38:12]  текст ошибки Undefined variable: postModel | файл : C:\OpenServer\domains\framework.loc\app\controllers\admin\PostController.php,
+		 строка : 38 
+============================================================
+[2019-08-18 14:38:12]  текст ошибки Call to a member function getArticlesOne() on null | файл : C:\OpenServer\domains\framework.loc\app\controllers\admin\PostController.php,
+		 строка : 38 
+============================================================
+[2019-08-18 14:38:14]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:38:15]  текст ошибки Undefined variable: postModel | файл : C:\OpenServer\domains\framework.loc\app\controllers\admin\PostController.php,
+		 строка : 38 
+============================================================
+[2019-08-18 14:38:15]  текст ошибки Call to a member function getArticlesOne() on null | файл : C:\OpenServer\domains\framework.loc\app\controllers\admin\PostController.php,
+		 строка : 38 
+============================================================
+[2019-08-18 14:38:53]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:41:14]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:41:18]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:41:21]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:42:07]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:42:12]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:42:18]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:42:23]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:42:24]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:42:34]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:43:00]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:43:01]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:43:22]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:43:29]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:43:40]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:43:45]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:43:48]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:43:56]  текст ошибки Undefined index: cat | файл : C:\OpenServer\domains\framework.loc\app\controllers\admin\CategoryController.php,
+		 строка : 48 
+============================================================
+[2019-08-18 14:43:56]  текст ошибки Undefined offset: 0 | файл : C:\OpenServer\domains\framework.loc\app\models\categoryModel.php,
+		 строка : 36 
+============================================================
+[2019-08-18 14:43:56]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:43:56]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:46:09]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:46:14]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:46:18]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:46:26]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:46:29]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:46:45]  текст ошибки Undefined variable: category | файл : C:\OpenServer\domains\framework.loc\app\views\admin\category\editView.php,
+		 строка : 14 
+============================================================
+[2019-08-18 14:46:45]  текст ошибки Undefined variable: category | файл : C:\OpenServer\domains\framework.loc\app\views\admin\category\editView.php,
+		 строка : 16 
+============================================================
+[2019-08-18 14:46:45]  текст ошибки Undefined variable: category | файл : C:\OpenServer\domains\framework.loc\app\views\admin\category\editView.php,
+		 строка : 25 
+============================================================
+[2019-08-18 14:46:45]  текст ошибки Undefined variable: category | файл : C:\OpenServer\domains\framework.loc\app\views\admin\category\editView.php,
+		 строка : 32 
+============================================================
+[2019-08-18 14:46:45]  текст ошибки Undefined variable: category | файл : C:\OpenServer\domains\framework.loc\app\views\admin\category\editView.php,
+		 строка : 38 
+============================================================
+[2019-08-18 14:46:45]  текст ошибки Undefined variable: category | файл : C:\OpenServer\domains\framework.loc\app\views\admin\category\editView.php,
+		 строка : 49 
+============================================================
+[2019-08-18 14:46:46]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:47:04]  текст ошибки Undefined variable: categoryModel | файл : C:\OpenServer\domains\framework.loc\app\controllers\admin\CategoryController.php,
+		 строка : 27 
+============================================================
+[2019-08-18 14:47:04]  текст ошибки Call to a member function getPageInfo() on null | файл : C:\OpenServer\domains\framework.loc\app\controllers\admin\CategoryController.php,
+		 строка : 27 
+============================================================
+[2019-08-18 14:48:13]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:48:46]  текст ошибки Undefined variable: categoryModel | файл : C:\OpenServer\domains\framework.loc\app\controllers\admin\CategoryController.php,
+		 строка : 48 
+============================================================
+[2019-08-18 14:48:46]  текст ошибки Call to a member function edite() on null | файл : C:\OpenServer\domains\framework.loc\app\controllers\admin\CategoryController.php,
+		 строка : 48 
+============================================================
+[2019-08-18 14:49:05]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:49:07]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:49:30]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:49:42]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:49:45]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:51:09]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:51:12]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:51:13]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:51:47]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:51:59]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:52:16]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:53:11]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:53:16]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:53:25]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:53:27]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:58:00]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 14:58:02]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 15:00:24]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 15:00:41]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 15:03:38]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 15:04:15]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 15:04:21]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 15:07:19]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 15:07:24]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 15:08:15]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 15:11:15]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 15:11:27]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 15:11:38]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 15:11:46]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 15:13:06]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 15:13:11]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 15:13:59]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 15:14:01]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 15:14:03]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 15:14:05]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 15:14:07]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 15:14:20]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 15:14:31]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 15:14:44]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 15:14:46]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 15:14:50]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 15:14:53]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 15:15:25]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 15:24:06]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 15:24:30]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 15:26:18]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 15:33:31]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 15:33:33]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 15:34:47]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 15:36:13]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 15:36:16]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 15:36:17]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
+[2019-08-18 15:36:19]  текст ошибки страница не найдена | файл : C:\OpenServer\domains\framework.loc\app\vendor\core\Router.php,
+		 строка : 95 
+============================================================
